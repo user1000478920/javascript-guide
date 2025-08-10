@@ -36,7 +36,3 @@ the_box['key'] = "new value";
 console.log(the_box['key']);
 console.log("");
 console.log(the_box);
-
-console.log( 1 + 1 ,"1 + 1");
-console.log( "1" + "1" );
-console.log( 1 + "1" );
