@@ -1,5 +1,10 @@
 //Primitive data types: nn bb ss u
 //null,number boolean,BigInt string,Symbol undefined
+/* Extra: `typeof` operator
+The typeof operators outputs the type of
+the data it is given.
+For example, `typeof 45` will output number. More examples below.
+*/
 let a = null;
 let b = 100478920;
 let c = true; //can also be false
